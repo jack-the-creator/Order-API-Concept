@@ -1,4 +1,4 @@
-# Electric Miles Orders API Project
+# Orders API Project
 Extras I would've liked to add:
 - User authentication
 - Create DeliveryAddress Entity that holds Street Name 1, Street Name 2, City, Postcode. Allow a user to have multiple addresses and have one per order
